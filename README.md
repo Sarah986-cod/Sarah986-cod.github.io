@@ -1,10 +1,11 @@
 # Sarah986-cod.github.io
 Coursera HTML5
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="utf-8">
-
+<linkrel="icon" type="WD4E-HTML/png" href="faverdrose.icon">
 <title>Best Roses In The world</title>
 
 </head>
@@ -19,7 +20,8 @@ Coursera HTML5
 
 <li>Rose</li>
 <img scr="beautiful-flowers-cherry-blossoms.jpg"  alt="Roses"  width="50%" hight="50%" >
-<li>Dahlia</li>
+<li>Dahlia</li><!DOCTYPE html>
+
 <li>Orchid</li>
 <li>Lotus</li>
 <li>Cherry Blossom </li>
@@ -36,5 +38,10 @@ Coursera HTML5
 Just visit <a href="https://www.interflora.com.au/blog/biggest-best-flower-festivals-around-the-world">www.interflora.com.</a>
 
 </body>
+
+
+<footer> Thanks There Hope All Enjoy @copy; Sarah Shawkii 2025>
+</footer>
+
 
 </html>
